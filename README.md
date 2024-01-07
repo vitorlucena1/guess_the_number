@@ -19,3 +19,15 @@ Este é um jogo simples desenvolvido em Python com o objetivo de aprimorar os co
 - O jogador tem 5 chances para acertar um número entre 0 e 20.
 - Caso erre, o programa fornecerá dicas indicando se o número tentado é maior ou menor que o número sorteado.
 - Se não acertar nas 5 tentativas, o programa informará o número sorteado.
+  
+### Requisitos:
+
+Para rodar o programa, é necessário ter a biblioteca sympy instalada. Para instalar, basta digitar no terminal:
+
+```bash
+pip install sympy
+```
+ou, caso esteja utilizando um sistema baseado em Debian, como o Ubuntu:
+```bash
+sudo apt install python3-sympy
+```
